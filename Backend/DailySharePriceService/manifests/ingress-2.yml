@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+    name: "portfoliokubernetescluster-38b4"
+    labels:
+        app: "portfoliokubernetescluster-38b4"
+    annotations:
+        kubernetes.io/ingress.class: addon-http-application-routing
+spec:
+    rules:
+        - host: dailysharepriceservice-portfoliokubernetescluster-38b4.059e6a5dc308410e8ebb.centralus.aksapp.io
+          http:
+            paths:
+            - path: /
+              backend:
+                serviceName: "portfoliokubernetescluster-38b4"
+                servicePort: 80

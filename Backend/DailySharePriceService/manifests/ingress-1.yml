@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+    name: "dailysharepricecluster-f4a4"
+    labels:
+        app: "dailysharepricecluster-f4a4"
+    annotations:
+        kubernetes.io/ingress.class: addon-http-application-routing
+spec:
+    rules:
+        - host: dailysharepricecluster959e-dailysharepricecluster-f4a4.1494eb6379384cc2b0bd.centralus.aksapp.io
+          http:
+            paths:
+            - path: /
+              backend:
+                serviceName: "dailysharepricecluster-f4a4"
+                servicePort: 80

@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+    name: "portfoliokubernetescluster-38b4"
+    labels:
+        app: "portfoliokubernetescluster-38b4"
+spec:
+    type: LoadBalancer
+    ports:
+    - port: 80
+      targetPort: 80
+      protocol: TCP
+      name: http
+    selector:
+        app: "portfoliokubernetescluster-38b4"

@@ -1,0 +1,311 @@
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\appsettings.json
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.exe
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.deps.json
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\ref\DailySharePrice.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.pdb
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csprojAssemblyReference.cache
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.xml
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\ref\DailySharePrice.dll
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.pdb
+C:\Users\Venky\source\repos\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.exe
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\ref\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.pdb
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csprojAssemblyReference.cache
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\ref\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.pdb
+C:\Users\raghu\Desktop\CTS sir examples\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.exe
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\ref\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\DailySharePrice.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\ref\DailySharePrice.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\DailySharePrice\DailySharePrice\obj\Debug\net5.0\DailySharePrice.csprojAssemblyReference.cache
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\appsettings.Development.json
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\appsettings.json
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Log4net.config
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.exe
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.deps.json
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\ref\DailySharePrice.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.pdb
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Humanizer.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\log4net.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.csprojAssemblyReference.cache
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.xml
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\ref\DailySharePrice.dll
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.pdb
+C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Log4net.config
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\appsettings.Development.json
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\appsettings.json
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.StaticWebAssets.xml
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.exe
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.deps.json
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.runtimeconfig.json
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.runtimeconfig.dev.json
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\DailySharePrice.pdb
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Humanizer.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\log4net.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.csproj.AssemblyReference.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.AssemblyInfoInputs.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.AssemblyInfo.cs
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.csproj.CoreCompileInputs.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cs
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.MvcApplicationPartsAssemblyInfo.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\scopedcss\bundle\DailySharePrice.styles.css
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\staticwebassets\DailySharePrice.StaticWebAssets.Manifest.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.RazorTargetAssemblyInfo.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.csproj.CopyComplete
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\refint\DailySharePrice.dll
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.pdb
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\DailySharePrice.genruntimeconfig.cache
+D:\CTS\ProjectCTS\portfolio management\Portfolio-Management-master\DailySharePriceService-main\DailySharePriceService-main\obj\Debug\net5.0\ref\DailySharePrice.dll

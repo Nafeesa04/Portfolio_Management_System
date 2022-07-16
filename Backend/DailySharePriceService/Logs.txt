@@ -1,0 +1,11 @@
+INFO  04:57:59 Now listening on: http://localhost:5002
+INFO  04:57:59 Application started. Press Ctrl+C to shut down.
+INFO  04:57:59 Hosting environment: Development
+INFO  04:57:59 Content root path: C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main
+INFO  04:58:22 Http Get request to fetch stock details by stockName
+INFO  04:58:28 Http Get request to Get All Stocks List
+INFO  04:58:36 Application is shutting down...
+INFO  09:26:00 Now listening on: http://localhost:5002
+INFO  09:26:00 Application started. Press Ctrl+C to shut down.
+INFO  09:26:00 Hosting environment: Development
+INFO  09:26:00 Content root path: C:\PortfolioManagement\DailySharePriceService-main\DailySharePriceService-main
