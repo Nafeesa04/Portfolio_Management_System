@@ -1,0 +1,509 @@
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csprojAssemblyReference.cache
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csprojAssemblyReference.cache
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Kanika\source\repos\Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kanika\source\repos\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csprojAssemblyReference.cache
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Kanika\source\repos\CDE-Portfolio Management\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csprojAssemblyReference.cache
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+D:\Portfolio mfpe\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\Dell\source\repos\latest\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.yaml
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.yaml
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.AssemblyReference.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailyMutualFundNAVMicroservice.styles.css
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailyMutualFundNAVMicroservice.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailyMutualFundNAVMicroservice.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\DailyMutualFundNAVMicroservice.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.AssemblyReference.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+D:\FINAL PROJECT\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.AssemblyReference.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.StaticWebAssets.xml
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.exe
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.deps.json
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.json
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.runtimeconfig.dev.json
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.AssemblyReference.cache
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfoInputs.cache
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.AssemblyInfo.cs
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\DailyMutualFundNAVMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.csproj.CopyComplete
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.dll
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.pdb
+C:\Users\thahi\Downloads\project008\project008\FINAL PROJECT\BACK END\DailyMutualFundNAVMicroservice\obj\Debug\netcoreapp3.1\DailyMutualFundNAVMicroservice.genruntimeconfig.cache
