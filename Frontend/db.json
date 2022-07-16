@@ -1,0 +1,124 @@
+{
+  "portfolioDetails": [
+    {
+      "portfolioId": "213654",
+      "stockName": "AAPL",
+      "tradetype": "Buy",
+      "quantity": 2,
+      "date": "2022-07-08T18:30:00.000Z",
+      "amount": 20000,
+      "id": 1
+    },
+    {
+      "portfolioId": "221456",
+      "stockName": "AMZN",
+      "tradetype": "Sell",
+      "quantity": 3,
+      "date": "2022-07-09T18:30:00.000Z",
+      "amount": 15000,
+      "id": 2
+    },
+    {
+      "portfolioId": "2241675",
+      "stockName": "TSLA",
+      "tradetype": "Buy",
+      "quantity": 2,
+      "date": "2022-07-09T18:30:00.000Z",
+      "amount": 10000,
+      "id": 3
+    },
+    {
+      "portfolioId": "123454",
+      "stockName": "AMZN",
+      "tradetype": "Buy",
+      "quantity": 3,
+      "date": "2022-07-09T18:30:00.000Z",
+      "amount": 10000,
+      "id": 4
+    },
+    {
+      "portfolioId": "213456",
+      "stockName": "AAPL",
+      "tradetype": "Buy",
+      "quantity": 3,
+      "date": "2022-07-10T18:30:00.000Z",
+      "amount": 20000,
+      "id": 5
+    }
+  ],
+  "SignupUsers": [
+    {
+      "Fullname": "nafisa",
+      "Mobile": "9876543210",
+      "email": "nafisa@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "Fullname": "pinky",
+      "Mobile": "9876543321",
+      "email": "pinky@gmail.com",
+      "password": "pinky123",
+      "id": 2
+    },
+    {
+      "Fullname": "Richa",
+      "Mobile": "9765467812",
+      "email": "richa@gmail.com",
+      "password": "richa123",
+      "id": 3
+    },
+    {
+      "Fullname": "",
+      "Mobile": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "Fullname": "",
+      "Mobile": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "Fullname": "",
+      "Mobile": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "Fullname": "Riya Sharma",
+      "Mobile": "9876543210",
+      "email": "riya@gmail.com",
+      "password": "12345678",
+      "id": 7
+    },
+    {
+      "Fullname": "Divya Agarwal",
+      "Mobile": "8765432100",
+      "email": "divya@gmail.com",
+      "password": "divya123",
+      "id": 8
+    },
+    {
+      "Fullname": "Anita Sharma",
+      "Mobile": "8765432190",
+      "email": "anita@gmail.com",
+      "password": "anita123",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

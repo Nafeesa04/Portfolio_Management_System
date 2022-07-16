@@ -1,0 +1,18 @@
+.navbar
+{
+    background-color:azure;
+}
+.navbar-brand
+{
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color:#000000;
+    font-size: 20px;
+    font-weight: 900;
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    text-decoration: underline;
+}
