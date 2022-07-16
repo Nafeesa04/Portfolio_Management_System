@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+    name: "portfoliokubernetescluster-420e"
+    labels:
+        app: "portfoliokubernetescluster-420e"
+    annotations:
+        kubernetes.io/ingress.class: addon-http-application-routing
+spec:
+    rules:
+        - host: dailymutualfundnav-portfoliokubernetescluster-420e.059e6a5dc308410e8ebb.centralus.aksapp.io
+          http:
+            paths:
+            - path: /
+              backend:
+                serviceName: "portfoliokubernetescluster-420e"
+                servicePort: 80

@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "dailysharepricecluster-2426"
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: "dailysharepricecluster-2426"
+  template:
+    metadata:
+      labels:
+        app: "dailysharepricecluster-2426"
+    spec:
+      containers:
+        - name: "dailysharepricecluster-2426"
+          image: "portfoliomanagementacr.azurecr.io/dailysharepricecluster"
+          ports:
+          - containerPort: 80

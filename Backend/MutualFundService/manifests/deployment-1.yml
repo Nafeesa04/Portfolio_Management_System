@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "portfoliokubernetescluster-420e"
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: "portfoliokubernetescluster-420e"
+  template:
+    metadata:
+      labels:
+        app: "portfoliokubernetescluster-420e"
+    spec:
+      containers:
+        - name: "portfoliokubernetescluster-420e"
+          image: "portfolioazurecontainerregistry.azurecr.io/portfoliokubernetescluster"
+          ports:
+          - containerPort: 80

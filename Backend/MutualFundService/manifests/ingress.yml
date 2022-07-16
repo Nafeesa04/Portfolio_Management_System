@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+    name: "dailysharepricecluster-2426"
+    labels:
+        app: "dailysharepricecluster-2426"
+    annotations:
+        kubernetes.io/ingress.class: addon-http-application-routing
+spec:
+    rules:
+        - host: dailymutualfundb724-dailysharepricecluster-2426.1494eb6379384cc2b0bd.centralus.aksapp.io
+          http:
+            paths:
+            - path: /
+              backend:
+                serviceName: "dailysharepricecluster-2426"
+                servicePort: 80

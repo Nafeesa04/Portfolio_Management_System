@@ -1,0 +1,87 @@
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\appsettings.json
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.exe
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.deps.json
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.runtimeconfig.json
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.runtimeconfig.dev.json
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\ref\MutualFund.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.pdb
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csprojAssemblyReference.cache
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.AssemblyInfoInputs.cache
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.AssemblyInfo.cs
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csproj.CoreCompileInputs.cache
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\staticwebassets\MutualFund.StaticWebAssets.Manifest.cache
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\staticwebassets\MutualFund.StaticWebAssets.xml
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\scopedcss\bundle\MutualFund.styles.css
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.RazorTargetAssemblyInfo.cache
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csproj.CopyComplete
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\ref\MutualFund.dll
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.pdb
+C:\Users\Venky\source\repos\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.exe
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\ref\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.pdb
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csprojAssemblyReference.cache
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\staticwebassets\MutualFund.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\staticwebassets\MutualFund.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\scopedcss\bundle\MutualFund.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\ref\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.pdb
+C:\Users\raghu\Desktop\CTS sir examples\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.exe
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\ref\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\MutualFund.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csprojAssemblyReference.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\staticwebassets\MutualFund.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\staticwebassets\MutualFund.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\scopedcss\bundle\MutualFund.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\ref\MutualFund.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\MutualFund\MutualFund\obj\Debug\net5.0\MutualFund.genruntimeconfig.cache

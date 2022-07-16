@@ -1,0 +1,28 @@
+INFO  04:55:39 Now listening on: http://localhost:5000
+INFO  04:55:39 Application started. Press Ctrl+C to shut down.
+INFO  04:55:39 Hosting environment: Development
+INFO  04:55:39 Content root path: C:\PortfolioManagement\MutualFundService-main\MutualFundService-main
+INFO  04:57:06 Http Get request to fetch mutual fund details by mutualFundName
+INFO  04:57:12 Http Get request to fetch AllMutualFunds List
+INFO  04:57:20 Application is shutting down...
+INFO  10:27:17 Now listening on: http://localhost:5000
+INFO  10:27:17 Application started. Press Ctrl+C to shut down.
+INFO  10:27:18 Hosting environment: Development
+INFO  10:27:18 Content root path: C:\PortfolioManagement\MutualFundService-main\MutualFundService-main
+INFO  10:27:54 Http Get request to fetch mutual fund details by mutualFundName
+INFO  10:28:07 Http Get request to fetch AllMutualFunds List
+INFO  10:29:43 Now listening on: http://localhost:5000
+INFO  10:29:43 Application started. Press Ctrl+C to shut down.
+INFO  10:29:43 Hosting environment: Development
+INFO  10:29:43 Content root path: C:\PortfolioManagement\MutualFundService-main\MutualFundService-main
+INFO  10:30:00 Http Get request to fetch mutual fund details by mutualFundName
+INFO  11:23:18 Now listening on: http://localhost:5000
+INFO  11:23:18 Application started. Press Ctrl+C to shut down.
+INFO  11:23:18 Hosting environment: Development
+INFO  11:23:18 Content root path: C:\PortfolioManagement\MutualFundService-main\MutualFundService-main
+INFO  11:24:52 Http Get request to fetch mutual fund details by mutualFundName
+INFO  11:26:16 Http Get request to fetch mutual fund details by mutualFundName
+INFO  11:35:36 Now listening on: http://localhost:5000
+INFO  11:35:36 Application started. Press Ctrl+C to shut down.
+INFO  11:35:36 Hosting environment: Development
+INFO  11:35:36 Content root path: C:\PortfolioManagement\MutualFundService-main\MutualFundService-main
