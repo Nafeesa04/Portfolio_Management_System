@@ -1,0 +1,469 @@
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csprojAssemblyReference.cache
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+D:\MFPE\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+D:\MFPE\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Final\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+D:\Final\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csprojAssemblyReference.cache
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csprojAssemblyReference.cache
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\Kanika\source\repos\Integration\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csprojAssemblyReference.cache
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\Portfolio mfpe\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+C:\Users\Dell\source\repos\latest\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.yaml
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.yaml
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csprojAssemblyReference.cache
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+D:\Individual apis\CalculateNetWorth\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.yaml
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.AssemblyReference.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetWorthApi.styles.css
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\SELVA CELCIYA\source\repos\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetWorthApi.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\PortFolioManagementSystem-master\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetWorthApi.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\1\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.AssemblyReference.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.xml
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetWorthApi.styles.css
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\MD SHAYEEL AKHTAR\Desktop\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.StaticWebAssets.xml
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.exe
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.deps.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.runtimeconfig.dev.json
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.AssemblyReference.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfoInputs.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.AssemblyInfo.cs
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CoreCompileInputs.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetWorthApi.StaticWebAssets.Manifest.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.RazorTargetAssemblyInfo.cache
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.csproj.CopyComplete
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.dll
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.pdb
+C:\Users\VIGHNESWAR GB\OneDrive\Desktop\project008\FINAL PROJECT\BACK END\CalculateNetWorthApi\obj\Debug\netcoreapp3.1\CalculateNetWorthApi.genruntimeconfig.cache
