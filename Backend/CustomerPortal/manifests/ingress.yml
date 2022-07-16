@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+    name: "portfoliokubernetescluster-8cd2"
+    labels:
+        app: "portfoliokubernetescluster-8cd2"
+    annotations:
+        kubernetes.io/ingress.class: addon-http-application-routing
+spec:
+    rules:
+        - host: customerportalmvc-portfoliokubernetescluster-8cd2.059e6a5dc308410e8ebb.centralus.aksapp.io
+          http:
+            paths:
+            - path: /
+              backend:
+                serviceName: "portfoliokubernetescluster-8cd2"
+                servicePort: 80
